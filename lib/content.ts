@@ -47,7 +47,7 @@ export const site = {
 export const photos: Photo[] = [
   {
     id: 'roses',
-    src: '/memories/memory-01.jpg',
+    src: '/Khanak-Scrapbook/memories/memory-01.jpg',
     alt: 'A favourite memory',
     caption: 'Best Diwali Present',
     date: '2025 Diwali',
@@ -58,7 +58,7 @@ export const photos: Photo[] = [
   },
   {
     id: 'sea',
-    src: '/memories/memory-02.jpg',
+    src: '/Khanak-Scrapbook/memories/memory-02.jpg',
     alt: 'A cherished memory',
     caption: 'the colour of that sky',
     date: 'Summer',
@@ -69,7 +69,7 @@ export const photos: Photo[] = [
   },
   {
     id: 'coffee',
-    src: '/memories/memory-08.jpg',
+    src: '/Khanak-Scrapbook/memories/memory-08.jpg',
     alt: 'A quiet afternoon',
     caption: 'Fun and Love',
     date: 'Summer Holidays 2026',
@@ -80,7 +80,7 @@ export const photos: Photo[] = [
   },
   {
     id: 'street',
-    src: '/memories/memory-04.jpg',
+    src: '/Khanak-Scrapbook/memories/memory-04.jpg',
     alt: 'An evening walk',
     caption: 'falling even more`',
     date: 'Evening',
@@ -91,7 +91,7 @@ export const photos: Photo[] = [
   },
   {
     id: 'wildflowers',
-    src: '/memories/memory-05.jpg',
+    src: '/Khanak-Scrapbook/memories/memory-05.jpg',
     alt: 'A special memory',
     caption: 'place of the best memory',
     date: '8th Class',
@@ -102,7 +102,7 @@ export const photos: Photo[] = [
   },
   {
     id: 'letters',
-    src: '/memories/memory-06.jpg',
+    src: '/Khanak-Scrapbook/memories/memory-06.jpg',
     alt: 'Year of beginning',
     caption: 'the class where it all began',
     date: '2021',
@@ -113,7 +113,7 @@ export const photos: Photo[] = [
   },
   {
     id: 'night',
-    src: '/memories/memory-07.jpg',
+    src: '/Khanak-Scrapbook/memories/memory-07.jpg',
     alt: 'A quiet night',
     caption: 'unsettling night',
     date: 'Evening',
@@ -124,7 +124,7 @@ export const photos: Photo[] = [
   },
   {
     id: 'nook',
-    src: '/memories/memory-08.jpg',
+    src: '/Khanak-Scrapbook/memories/memory-08.jpg',
     objectPosition: 'top',
     alt: 'A slow morning',
     caption: 'silly you',
